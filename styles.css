@@ -1,1 +1,47 @@
+.Eniac {
+  color: red;
+}
 
+h2 {
+  color:red;
+}
+
+p {
+  font-size: 20px;
+}
+
+#Title {
+  font-style: italic;
+}
+
+p {
+  background-color: gray;
+}
+
+h2 {
+  background-color: orange;
+}
+
+p {
+  text-align: left;
+}
+
+h1{
+  text-align: center;
+}
+
+p {
+  font-style: normal;
+}
+
+h2 {
+  font-stretch: normal;
+}
+
+p {
+  font-weight: normal;
+}
+
+p {
+  font-family: sans-serif;
+}
